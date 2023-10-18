@@ -1,1 +1,1 @@
-<p>Blogicum</p>
+<h1 allign="center">Blogicum</h1>
